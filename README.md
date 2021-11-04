@@ -5,7 +5,7 @@
 
 | favorite | can use | can use, whether I like that, or not |
 |----|----|----|
-| Java | C, Go, PHP, Python, Shell | C#, Ruby |
+| Java | C, C++, Go, PHP, Python, Shell | C#, Perl, Ruby |
 | H2DB, MariaDB, Minio, PostgreSQL, Redis | MariaDB, MongoDB, Oracle, RabbitMQ, S3 | AccessDBA, Cassandra, MySQL, SQL Server |
 | Fedora, RHEL | arm64, Ubuntu, Debian | Windows Server |
-| HTML, Javascript, CSS, Thymeleaf | React, Vue | Angular, JSF, JSP, Typescript, Symphony |
+| HTML, Javascript, CSS, Bootstrap, NodeJS, Thymeleaf | Django, JQuery, React, Vue | Angular, Cake, JSF, JSP, Laravel, .NET, Symfony, Typescript |
