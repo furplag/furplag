@@ -4,7 +4,7 @@
 
 | favorite | can use | can use, whether I like that, or not |
 |----|----|----|
-| Java, Kotlin | C, C++, Go, PHP, Python, Shell | C#, Perl, Ruby |
+| Java, Kotlin | C, C++, Go, PHP, Python, Shell | Android Java, C#, Perl, Ruby |
 | H2DB, MariaDB, Minio, PostgreSQL, Redis | MongoDB, Oracle, RabbitMQ, S3 | Access, Cassandra, HSQLDB, MySQL, SQL Server |
 | Fedora, RHEL | Debian, Ubuntu | Windows Server |
 | HTML, Javascript, CSS, Bootstrap, NodeJS, Thymeleaf | Django, JQuery, React, Vue | Angular, Cake, JSF, JSP, Laravel, .NET, Symfony, Typescript |
