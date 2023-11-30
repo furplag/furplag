@@ -8,3 +8,4 @@
 | H2DB, MariaDB, Minio, PostgreSQL, Redis | MongoDB, Oracle, RabbitMQ, S3 | Access, Cassandra, MySQL, SQL Server |
 | Fedora, RHEL | Debian, Ubuntu | Windows Server |
 | HTML, Javascript, CSS, Bootstrap, NodeJS, Thymeleaf | Django, JQuery, React, Vue | Angular, Cake, JSF, JSP, Laravel, .NET, Symfony, Typescript |
+| Bedrock, Paper, Spigot, Geyser, Resource Pack ( Textures, Bedrock / Java ) | Behivior Pack ( Bedrock / Java ) | Forge, Mohist |
