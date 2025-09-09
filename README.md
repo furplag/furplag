@@ -1,6 +1,6 @@
 # [![furplag](https://gravatar.com/avatar/09f9283834e4c3233bb7e41ab0f0671b?size=64)](https://github.com/furplag/)  furplag  ![furplag](https://komarev.com/ghpvc/?username=furplag&style=flat-square&color=389bac)
 
-![furplag](https://github-readme-stats.vercel.app/api?username=furplag&show_icons=true&include_all_commits=true&theme=dark)
+[![stats](https://github-readme-stats.vercel.app/api?username=furplag&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 | favorite | can use | can use, whether I like that, or not |
 |----|----|----|
@@ -10,3 +10,5 @@
 | HTML, Javascript, CSS, Bootstrap, NodeJS, Thymeleaf | Django, JQuery, React, Vue | Angular, Cake, JSF, JSP, Laravel, .NET, Symfony, Typescript |
 | Minecraft Bedrock, Minecraft Java | Paper, Spigot, Geyser, Velocity, Bungeecord, Waterfall | Forge, Mohist |
 | Docker | Openshift |  |
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=furplag&rank=-?&no-bg=true&no-frame=true&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
